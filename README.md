@@ -8,3 +8,4 @@
     - 多卡：模型单卡部署: parallel_app_tornado_v3_milt_models.py
 - 压测
     - load_testing.py                        
+    - 压测对比结果![压测对比result](./images/results.png)
