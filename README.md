@@ -9,3 +9,12 @@
 - 压测
     - load_testing.py                        
     - 压测对比结果![压测对比result](./images/results.png)
+
+- 模型下载
+    - 脚本命令
+    ```bash
+    #下载模型
+    bash hf_download/download_script.sh model gpt2
+
+    #下载数据
+    bash hf_download/download_script.sh dataset Shitao/MLDR
